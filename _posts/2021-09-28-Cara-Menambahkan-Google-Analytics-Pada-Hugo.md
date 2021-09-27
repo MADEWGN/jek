@@ -7,6 +7,8 @@ cover-img: https://upload.wikimedia.org/wikipedia/commons/4/46/Google_Analytics_
 tags: [blog , jekyll]
 ---
 
+![pic](https://upload.wikimedia.org/wikipedia/commons/4/46/Google_Analytics_Logo_2015.png)
+
 Ketika kita mengelola sebuah website baik itu website pribadi, kantor, event, dll., pastinya kita ingin bisa memantau traffic dari website tersebut. Salah satu layanan gratis dari Google yang dapat membantu kita melakukan hal tersebut adalah Google Analytics.
 
 Dengan Google Analytics, kita bisa mendapatkan informasi dari mulai halaman mana yang dikunjungi visitor, negara asal visitor, sumber dan kata kunci yang merujuk ke website kita, hingga pembuatan report tentang traffic dari website kita. Berbagai fungsi dari Google Analytics dibahas pada tautan berikut.
