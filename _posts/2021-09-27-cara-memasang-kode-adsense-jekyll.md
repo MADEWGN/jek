@@ -1,7 +1,7 @@
 ---
 layout: post
-title: cara memasang kode adsense jekyll
-subtitle: cara memasang kode adsense jekyll
+title: cara memasang kode adsense di jekyll
+subtitle: cara memasang kode adsense di jekyll
 share-img: https://telegra.ph/file/369faf8da03456041200a.jpg
 cover-img: https://telegra.ph/file/369faf8da03456041200a.jpg
 tags: [blog , jekyll]
