@@ -36,7 +36,7 @@ Publikasikan post pertama kita!
 note : jika belum punya akun github silakan di buat dulu.
 
 
-Kunjungi ![Jekyll Now](http://www.github.com/barryclark/jekyll-now), dan tekan tombol “Fork” di sudut kanan atas repositori untuk menyalin salinan tema blog ke akun GitHub kalian.
+Kunjungi [Jekyll Now](http://www.github.com/barryclark/jekyll-now), dan tekan tombol “Fork” di sudut kanan atas repositori untuk menyalin salinan tema blog ke akun GitHub kalian.
 
 ![contoh](https://i0.wp.com/cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cddcf942-6cc7-4a1f-bf1b-5066b5e553ec/step1.gif)
 
